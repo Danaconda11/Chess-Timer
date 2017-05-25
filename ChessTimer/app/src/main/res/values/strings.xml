@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Chess Clock</string>
+    <string name="action_settings">action settings</string>
+    <string name="tap_begin">Tap here to begin</string>
+    <string name="select_moves">Moves</string>
+    <string name="select_time">Minutes</string>
+    <string name="title_activity_main_activity2">The game is in progress</string>
+    <string name="whites_time">White\'s time: </string>
+    <string name="whites_moves">White\'s move #: </string>
+    <string name="blacks_time">Black\'s time: </string>
+    <string name="blacks_moves">Black\'s move #: </string>
+    <string name="hello_world">Hello world!</string>
+
+
+</resources>
